@@ -1,6 +1,17 @@
+
 # 🏦 Loan Amount Prediction
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)    
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()  
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)](https://jupyter.org/)  
+[![Repo size](https://img.shields.io/github/repo-size/Maryam-20/loan-eligibility-prediction)]()  
+[![Last Commit](https://img.shields.io/github/last-commit/Maryam-20/loan-eligibility-prediction)]()
+
+---
+
 This project uses machine learning to predict **loan amounts** based on borrower details such as income, employment, education, and credit history. It includes steps for data preprocessing, encoding, normalization, and training a regression model for accurate predictions.
+
+---
 
 ## 📑 Table of Contents
 
@@ -8,6 +19,8 @@ This project uses machine learning to predict **loan amounts** based on borrower
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Technologies Used](#technologies-used)  
+
+---
 
 ## ✨ Features
 
@@ -17,6 +30,7 @@ This project uses machine learning to predict **loan amounts** based on borrower
 - Loan amount prediction using regression  
 - Visualizations for insights and model evaluation  
 
+---
 
 ## 🛠️ Installation
 
@@ -54,6 +68,8 @@ After launching the notebook:
 2. Run all cells for data preprocessing, normalization, and model training.
 3. View predictions and evaluation metrics like RMSE or R².
 
+---
+
 ## 🧰 Technologies Used
 
 - Python  
@@ -62,4 +78,3 @@ After launching the notebook:
 - Scikit-learn  
 - Jupyter Notebook  
 - Matplotlib / Seaborn (for visualizations)
-
